@@ -4,7 +4,14 @@ This is the repository that contains source code for the [Posthoc-CBM-Faithfulne
 
 If you find our work useful please cite:
 ```
-TODO
+@inproceedings{schmalwasser2026faithfulness,
+  author    = {Schmalwasser, Laines and Blunk, Jan and Penzel, Niklas and Niebling, Julia and Denzler, Joachim},
+  title     = {On the Faithfulness of Post-Hoc Concept Bottleneck Models},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year      = {2026},
+  arxiv     = {2606.30498},
+  url       = {https://posthoc-cbm-faithfulness.github.io/}
+}
 ```
 
 # Website License
